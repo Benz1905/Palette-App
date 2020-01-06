@@ -57,6 +57,7 @@
             >
 
             <Button
+                android:id="@+id/one"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#EBE1DD"
@@ -67,6 +68,7 @@
                 android:layout_marginRight="5dp"/>
 
             <Button
+                android:id="@+id/two"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#ECCBCA"
@@ -77,6 +79,7 @@
                 android:layout_marginRight="5dp"/>
 
             <Button
+                android:id="@+id/three"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#75839C"
@@ -87,6 +90,7 @@
                 android:layout_marginRight="5dp"/>
 
             <Button
+                android:id="@+id/four"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#99A9BF"
@@ -97,6 +101,7 @@
                 android:layout_marginRight="5dp"/>
 
             <Button
+                android:id="@+id/five"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#C3CCD5"
@@ -107,6 +112,7 @@
             android:layout_marginRight="5dp"/>
 
             <Button
+                android:id="@+id/six"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#DDE2E5"
